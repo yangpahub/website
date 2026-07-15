@@ -1,4 +1,4 @@
 function fetchData() {
-  console.log("call Data fix -1");
-  return;
+    console.log("데이터 불러오기 수정 - 2");
+    return;
 }
